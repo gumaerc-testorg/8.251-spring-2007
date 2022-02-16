@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to the Midterm exam from 2005.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-251-string-theory-for-undergraduates-spring-2007/c7378c3bda798753a7defaa02f4c121d_midterm_05_sols.pdf
+file: /media/courses/8-251-string-theory-for-undergraduates-spring-2007/c7378c3bda798753a7defaa02f4c121d_midterm_05_sols.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm_05_sols.pdf
 uid: c7378c3b-da79-8753-a7de-faa02f4c121d

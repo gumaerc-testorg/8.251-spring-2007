@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on relativistic electrodynamics, Gauss' law, gravitation,
   and Planck's length.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-251-string-theory-for-undergraduates-spring-2007/184b1fe03c3d32c9ac0a860af62b877c_lec3.pdf
+file: /media/courses/8-251-string-theory-for-undergraduates-spring-2007/184b1fe03c3d32c9ac0a860af62b877c_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec3.pdf
 uid: 184b1fe0-3c3d-32c9-ac0a-860af62b877c
