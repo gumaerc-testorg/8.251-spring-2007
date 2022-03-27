@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 10b683fd-9e39-367e-cb73-d1b19fe78dda
 resourcetype: Document
 title: hwk10.pdf
 uid: 8d9107e9-32e3-69c1-8a11-3953f77e6b34

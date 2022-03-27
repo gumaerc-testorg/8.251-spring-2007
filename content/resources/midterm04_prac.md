@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 59e02f2f-079f-0a4c-7d50-4614f8b30024
 resourcetype: Document
 title: midterm04_prac.pdf
 uid: a5676c7c-f00e-1004-93ae-9ba3b7341f58

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 59e02f2f-079f-0a4c-7d50-4614f8b30024
 resourcetype: Document
 title: 8251test2review.pdf
 uid: 8bcc5630-863d-3920-4a0d-cc8e3c6a1eba

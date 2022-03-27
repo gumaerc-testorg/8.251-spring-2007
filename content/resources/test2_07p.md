@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 59e02f2f-079f-0a4c-7d50-4614f8b30024
 resourcetype: Document
 title: test2_07p.pdf
 uid: b01fc57a-0482-e567-9b8f-a522fd175165
