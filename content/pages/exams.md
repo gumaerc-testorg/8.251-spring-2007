@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on course exams and related study materials.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -30,16 +31,16 @@ Test 1
 {{< tdopen >}}
 
 
-2004 Midterm ([PDF]({{< baseurl >}}/resources/midterm04_prac))
+2004 Midterm ({{% resource_link a5676c7c-f00e-1004-93ae-9ba3b7341f58 "PDF" %}})
 
-2005 Midterm ([PDF]({{< baseurl >}}/resources/midterm_05))
+2005 Midterm ({{% resource_link 75bbca72-c085-86ca-eb34-3f4691c19ce7 "PDF" %}})
 
-Solutions ([PDF]({{< baseurl >}}/resources/midterm_05_sols))
+Solutions ({{% resource_link c7378c3b-da79-8753-a7de-faa02f4c121d "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-2007 Test 1 ([PDF]({{< baseurl >}}/resources/midterm_07))
+2007 Test 1 ({{% resource_link b22cc820-187b-199b-ed8f-fcfa2fc60a1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,10 +49,10 @@ Solutions ([PDF]({{< baseurl >}}/resources/midterm_05_sols))
 Test 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review notes ([PDF]({{< baseurl >}}/resources/8251test2review))
+Review notes ({{% resource_link 8bcc5630-863d-3920-4a0d-cc8e3c6a1eba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-2007 Test 2 ([PDF]({{< baseurl >}}/resources/test2_07p))
+2007 Test 2 ({{% resource_link b01fc57a-0482-e567-9b8f-a522fd175165 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,10 +61,10 @@ Review notes ([PDF]({{< baseurl >}}/resources/8251test2review))
 Final exam
 {{< tdclose >}}
 {{< tdopen >}}
-Practice problems ([PDF]({{< baseurl >}}/resources/practice))
+Practice problems ({{% resource_link 9ecdcfce-ddc5-33f3-d72c-197fa2c7deb9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-2007 Final exam ([PDF]({{< baseurl >}}/resources/final_07))
+2007 Final exam ({{% resource_link 1ac27d48-fa54-13f4-23aa-295168f5af15 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
