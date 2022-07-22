@@ -6,6 +6,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/ff2f84174d08a8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: ff2f8417-4d08-a88a-c073-2145f00b3b7f
 ---
 Lecture notes on the relativistic point particle: Action, reparametrizations, and equations of motion.
-

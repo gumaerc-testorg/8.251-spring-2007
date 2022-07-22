@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/753a675859981e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hwk11.pdf
 uid: 753a6758-5998-1eb2-7324-1e98ecb56536
 ---
 Homework assignment.
-

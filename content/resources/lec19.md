@@ -6,6 +6,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/9df3140e29275c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec19.pdf
 uid: 9df3140e-2927-5c1d-64f2-b74318d1a0e0
 ---
 Lecture notes on critical dimension, constructing the state space, and tachyons.
-

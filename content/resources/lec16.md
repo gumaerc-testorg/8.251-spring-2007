@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/c0a5a2c2790f04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec16.pdf
 uid: c0a5a2c2-790f-048a-b228-ddcdf6441bb8
 ---
 Lecture notes on light-cone fields and particles.
-

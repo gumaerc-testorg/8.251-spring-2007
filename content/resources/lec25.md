@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/60fd9c56a57f87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec25.pdf
 uid: 60fd9c56-a57f-87f2-a1df-f7df6ebc0cb5
 ---
 Lecture notes on Dp-branes.
-

@@ -6,6 +6,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/061e1f35aad94b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: 061e1f35-aad9-4b88-fee5-85e928db8f61
 ---
 Lecture notes on energy and momentum, compact dimensions, orbifolds, quantum mechanics, and the square well.
-

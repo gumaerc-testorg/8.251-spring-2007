@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/75bbca72c08586
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_05.pdf
 uid: 75bbca72-c085-86ca-eb34-3f4691c19ce7
 ---
 Midterm exam from 2005.
-

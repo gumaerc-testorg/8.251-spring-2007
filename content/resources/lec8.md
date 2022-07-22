@@ -6,6 +6,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/e653d0e73146e6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec8.pdf
 uid: e653d0e7-3146-e6ba-9724-2ad399e99366
 ---
 Lecture notes on an area formula for spatial surfaces, continued from Lecture 7.
-

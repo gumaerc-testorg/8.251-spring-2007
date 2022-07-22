@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/0cca13a5a5fa62
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec5.pdf
 uid: 0cca13a5-a5fa-624c-b90d-0b457692b8d6
 ---
 Lecture notes on nonrelativistic strings and Lagrangian mechanics.
-

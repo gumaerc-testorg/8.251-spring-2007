@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/9ecdcfceddc533
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: practice.pdf
 uid: 9ecdcfce-ddc5-33f3-d72c-197fa2c7deb9
 ---
 A list of practice problems for the final exam.
-

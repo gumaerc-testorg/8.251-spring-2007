@@ -5,6 +5,7 @@ file: /courses/8-251-string-theory-for-undergraduates-spring-2007/f02cdd19568361
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec23.pdf
 uid: f02cdd19-5683-6166-ccae-e966d679a4e5
 ---
 Lecture notes on closed strings and heterotic string theory.
-
