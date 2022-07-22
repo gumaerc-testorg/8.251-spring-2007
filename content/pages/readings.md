@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the textbook, an additional reference
+  text, and a calendar of lecture topics with associated readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8486ffd6-234c-25c6-e8f5-8bb8205c66de
 ---
