@@ -4,6 +4,7 @@ description: This resource contains review notes for test 2.  Topics include Wor
   Currents, Tension, Slope Parameter, String Length, the String in Light-Cone Gauge,
   and Quantization of the String in Light-Cone Gauge.
 file: /courses/8-251-string-theory-for-undergraduates-spring-2007/8bcc5630863d39204a0dcc8e3c6a1eba_8251test2review.pdf
+file_size: 382810
 file_type: application/pdf
 learning_resource_types:
 - Exams
