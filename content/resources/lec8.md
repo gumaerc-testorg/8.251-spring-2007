@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on an area formula for spatial surfaces, continued from
   Lecture 7.
 file: /courses/8-251-string-theory-for-undergraduates-spring-2007/e653d0e73146e6ba97242ad399e99366_lec8.pdf
+file_size: 74815
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
