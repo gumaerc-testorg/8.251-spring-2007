@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes on the relativistic point particle: Action, reparametrizations,
   and equations of motion.'
 file: /courses/8-251-string-theory-for-undergraduates-spring-2007/ff2f84174d08a88ac0732145f00b3b7f_lec6.pdf
+file_size: 130023
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/8-251-string-theory-for-undergraduates-spring-2007/33bf0bfc449e34da9d348797df3f4c5d_hwk6.pdf
+file_size: 75387
 file_type: application/pdf
 learning_resource_types:
 - Assignments

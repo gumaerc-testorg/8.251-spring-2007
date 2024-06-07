@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on closed strings and heterotic string theory.
 file: /courses/8-251-string-theory-for-undergraduates-spring-2007/f02cdd1956836166ccaee966d679a4e5_lec23.pdf
+file_size: 801339
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

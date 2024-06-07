@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on change of variables and variables of integration.
 file: /courses/8-251-string-theory-for-undergraduates-spring-2007/c274eeae40ff1caf3cefc003b7d243bc_lec9.pdf
+file_size: 158781
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
