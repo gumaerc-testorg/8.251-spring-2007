@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm exam from 2007.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/b22cc820187b199bed8ffcfa2fc60a1e_midterm_07.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/b22cc820187b199bed8ffcfa2fc60a1e_midterm_07.pdf
 file_size: 84443
 file_type: application/pdf
 learning_resource_types:
