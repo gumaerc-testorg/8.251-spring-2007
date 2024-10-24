@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on closed strings.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/13ecf4aed160f37d6ad214bae026ee81_lec20.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/13ecf4aed160f37d6ad214bae026ee81_lec20.pdf
 file_size: 141675
 file_type: application/pdf
 learning_resource_types:

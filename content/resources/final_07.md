@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam from 2007.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/1ac27d48fa5413f423aa295168f5af15_final_07.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/1ac27d48fa5413f423aa295168f5af15_final_07.pdf
 file_size: 208582
 file_type: application/pdf
 learning_resource_types:
