@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on light-cone fields and particles, continued from Lecture
   16.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/9a6b440592b2c873675e1f70bbd9c46e_lec17.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/9a6b440592b2c873675e1f70bbd9c46e_lec17.pdf
 file_size: 137102
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the Midterm exam from 2005.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/c7378c3bda798753a7defaa02f4c121d_midterm_05_sols.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/c7378c3bda798753a7defaa02f4c121d_midterm_05_sols.pdf
 file_size: 870860
 file_type: application/pdf
 learning_resource_types:

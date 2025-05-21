@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Dp-branes and Parallel Dp?s.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/41a308ec52b976cf888d61dd5a9826d2_lec24.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/41a308ec52b976cf888d61dd5a9826d2_lec24.pdf
 file_size: 169791
 file_type: application/pdf
 learning_resource_types:
