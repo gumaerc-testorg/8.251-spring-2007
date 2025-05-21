@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on open strings.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/21fb40c092d4a767e7de03bc6df5435d_lec18.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/21fb40c092d4a767e7de03bc6df5435d_lec18.pdf
 file_size: 132464
 file_type: application/pdf
 learning_resource_types:

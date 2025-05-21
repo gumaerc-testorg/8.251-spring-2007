@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on nonrelativistic strings and Lagrangian mechanics.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/0cca13a5a5fa624cb90d0b457692b8d6_lec5.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/0cca13a5a5fa624cb90d0b457692b8d6_lec5.pdf
 file_size: 205915
 file_type: application/pdf
 learning_resource_types:

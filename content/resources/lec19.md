@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on critical dimension, constructing the state space, and
   tachyons.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/9df3140e29275c1d64f2b74318d1a0e0_lec19.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/9df3140e29275c1d64f2b74318d1a0e0_lec19.pdf
 file_size: 157213
 file_type: application/pdf
 learning_resource_types:

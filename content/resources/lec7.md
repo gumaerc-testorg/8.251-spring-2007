@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the area formula for spatial surfaces.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/2ed11482f84c747194ee6a8bf3a226ce_lec7.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/2ed11482f84c747194ee6a8bf3a226ce_lec7.pdf
 file_size: 139580
 file_type: application/pdf
 learning_resource_types:

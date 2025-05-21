@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the sigma-parametrization, equations of motion and Virasoro
   constraints, general motion for open strings, and rotating open strings.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/19d1c9300ec6807a0a7a46c1db9141e9_lec12.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/19d1c9300ec6807a0a7a46c1db9141e9_lec12.pdf
 file_size: 152191
 file_type: application/pdf
 learning_resource_types:

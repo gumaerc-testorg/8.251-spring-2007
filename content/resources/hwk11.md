@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/753a675859981eb273241e98ecb56536_hwk11.pdf
+file: /courses/8-251-string-theory-for-undergraduates-spring-2007/753a675859981eb273241e98ecb56536_hwk11.pdf
 file_size: 45203
 file_type: application/pdf
 learning_resource_types:
