@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on a solution of the open string motion in the light-cone
   gauge.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/e309cde65505b6eb3b1133a1a70c9d98_lec15.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/e309cde65505b6eb3b1133a1a70c9d98_lec15.pdf
 file_size: 135600
 file_type: application/pdf
 learning_resource_types:
