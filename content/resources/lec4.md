@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on gravitational potentials, Newtonian gravity, Einstein's
   gravity, string theory, Planckian enits, the cosmological constant, compactification,
   and large extra dimensions.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/e396b9a7aa6e59371bb55f00ad5d53c5_lec4.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/e396b9a7aa6e59371bb55f00ad5d53c5_lec4.pdf
 file_size: 174300
 file_type: application/pdf
 learning_resource_types:

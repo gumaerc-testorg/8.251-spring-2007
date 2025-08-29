@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with a review for the final exam and practice problems.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/36358312d9746554a60109324c58bebf_lec26.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/36358312d9746554a60109324c58bebf_lec26.pdf
 file_size: 122569
 file_type: application/pdf
 learning_resource_types:

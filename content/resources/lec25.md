@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Dp-branes.
-file: /courses/8-251-string-theory-for-undergraduates-spring-2007/60fd9c56a57f87f2a1dff7df6ebc0cb5_lec25.pdf
+file: /ol-ocw-studio-app/courses/8-251-string-theory-for-undergraduates-spring-2007/60fd9c56a57f87f2a1dff7df6ebc0cb5_lec25.pdf
 file_size: 184524
 file_type: application/pdf
 learning_resource_types:
